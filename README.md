@@ -1,4 +1,4 @@
-# D3 v4 Sortable
+# D3 v4 Sortable Table
 
 Adapted from [Mingsong Hu](https://bl.ocks.org/AMDS)'s Block [D3.js Sortable & Responsive Table](http://bl.ocks.org/AMDS/4a61497182b8fcb05906)
 
