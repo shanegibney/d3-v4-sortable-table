@@ -2,8 +2,12 @@
 
 gh-pages [demo](https://shanegibney.github.io/d3-v4-sortable-table/)
 
-This table is created using a JSON object. Some keys have string values and the others have numerical values.
+This table is created using a JSON object. Some table columns have string values and the others have numerical values.The string values need to be sorted alphabetically and the others numerically.
 
-The sorting is different for each type. Therefore you need to specify which columns are strings and need to be sorted alphabetically.
+The alphabetical columns are hard coded for alphabetical sorting.
+
+```
+    if (d == "name" || d == "club" || d == "category") { //these keys sort alphabetically
+```
 
 <img width="1428" alt="screen shot 2017-08-12 at 15 41 09" src="https://user-images.githubusercontent.com/17167992/29241590-c7811092-7f74-11e7-8013-09c1e3676103.png">
