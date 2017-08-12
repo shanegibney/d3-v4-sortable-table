@@ -4,6 +4,8 @@ Adapted from [Mingsong Hu](https://bl.ocks.org/AMDS)'s Block [D3.js Sortable & R
 
 gh-pages [demo](https://shanegibney.github.io/d3-v4-sortable-table/)
 
+Also on [jsFiddle](https://jsfiddle.net/ofey/dxxpkhj7/2/)
+
 This table is created using a JSON object. Some table columns have string values and the others have numerical values. The string values need to be sorted alphabetically and the others numerically.
 
 The alphabetical columns are hard coded for alphabetical sorting.
